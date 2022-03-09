@@ -460,7 +460,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -2.57134982848358,
+          "pitch": 0.0681139266315256,
+          "rotation": 0,
+          "target": "7-top-of-stairs2f"
+        }
+      ],
       "infoHotspots": [
         {
           "yaw": -1.1424696897823932,
