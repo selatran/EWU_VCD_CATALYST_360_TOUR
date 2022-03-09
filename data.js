@@ -266,10 +266,16 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 0.6214822465291618,
-          "pitch": 0.10956138266220883,
+          "yaw": 0.4451424809073181,
+          "pitch": 0.27279973201717134,
           "title": "Lobby &amp; Innovation Hub",
           "text": "Lobby and Innovation Hub are located towards the back of the 1st floor.&nbsp;"
+        },
+        {
+          "yaw": 1.0876647758053153,
+          "pitch": -0.045678988777424934,
+          "title": "VCD Classrooms",
+          "text": "All design classrooms are located on the 2nd floor to the left side of the building."
         }
       ]
     },
@@ -644,6 +650,12 @@ var APP_DATA = {
           "pitch": 0.052965552420371154,
           "rotation": 0,
           "target": "11-vcd-area-2f"
+        },
+        {
+          "yaw": 2.8876929360491124,
+          "pitch": 0.042663869093905404,
+          "rotation": 0,
+          "target": "13-vcd-right-hallway-mid-2f"
         }
       ],
       "infoHotspots": []
@@ -682,6 +694,12 @@ var APP_DATA = {
           "pitch": 0.04444267028137716,
           "rotation": 0,
           "target": "12-vcd-right-hallway-2f"
+        },
+        {
+          "yaw": 3.1120081985380423,
+          "pitch": 0.04092337075553232,
+          "rotation": 0,
+          "target": "14-vcd-right-hallway-end-2f"
         }
       ],
       "infoHotspots": [
